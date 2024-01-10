@@ -1,7 +1,7 @@
 # Intro
 This project uses Fujitsu's proprietary protocol to control a Fujitsu AC(heat pump) unit, using the MCP-2021-330 interfacing with Home Assistant through ESPHome.
 
-This project is entirely based on unreality [FujiHeatPump](https://github.com/unreality/FujiHeatPump) and FujiHeatPump/esphome-fujitsuproject.
+This project is entirely based on unreality [FujiHeatPump](https://github.com/unreality/FujiHeatPump) and [FujiHeatPump/esphome-fujitsuproject](https://github.com/FujiHeatPump/esphome-fujitsu).
 Huge thanks to [unreality](https://github.com/unreality/) and [jaroslawprzybylowicz](https://github.com/jaroslawprzybylowicz/fuji-iot)!
 
 # How to use:
